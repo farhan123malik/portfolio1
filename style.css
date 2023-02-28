@@ -1,0 +1,151 @@
+#background1{
+    background-color: #363543;
+width: 100%;
+height: 400px;
+
+}
+#top{
+    display: flex;
+    justify-content: space-around;
+}
+#background2{
+    background-color: #282834;
+    width: 100%;
+    height: 400px;
+    position: relative;
+}
+#center{
+    width: 80%;
+    height: 50px;
+    background-color: #282834;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: -30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+}
+
+#img1 img{
+    width: 80px;
+    height: 30px;
+    background-color:#363543 ;
+    border-radius: 10px;
+}
+#header img{
+    width: 50px;
+    height: 60px;
+}
+#header{
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+#head1{
+    padding: 30px;
+}
+#navlink a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+#navbar{
+    display: flex;
+    justify-content: center;
+    margin-top: -60px;
+    gap: 20px;
+    padding-top: 120px;
+}
+#navbar a:hover{
+    transition: 0.3s ease-in-out;
+    color: blue;
+}
+#image img{
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    padding-top: 40px;
+}
+#image1{
+    display: flex;
+    justify-content: center;
+}
+#border{
+    border-bottom: solid;
+    color: orange;
+    border-width: 1px;
+    width: 150px;
+}
+#st{
+    padding: 40px;
+    color: whitesmoke;
+}
+#frontimage{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #282834;
+}
+#frontimage img{
+    width: 120px;
+    height: 200px;
+}
+#header2{
+    display: flex;
+    justify-content: space-around;
+
+}
+p img{
+    width: 20px;
+    height: 8px;
+}
+#log{
+    background-color: orange;
+    width: 24px;
+    padding: 3px;
+}
+#log img{
+    width: 20px;
+    height:20 px;
+}
+#logo{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+#last{
+    padding-top:30px;
+    width: 500px;
+    padding-left:170px ;
+    color: whitesmoke;
+
+}
+#footer{
+    display: flex;
+    justify-content: center;
+}
+#footer img{
+    width: 80px;
+    height: 80px;
+}
+#lastpart{
+    display: flex;
+    justify-content: space-around;
+    
+}
+#picture{
+    display: block;
+    margin:20px;
+    color: whitesmoke;
+    padding-top:30px ;
+}
+#arrow img{
+    width: 20px;
+    height: 12px;
+}
+#arrowhead{
+    padding-top: 30px;
+}
